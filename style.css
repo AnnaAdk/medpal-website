@@ -1,0 +1,35 @@
+body {
+    background-color: crimson;
+    color: wheat;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 5px;
+}
+
+#loginDiv {
+     background-color: coral;
+     text-align: center;
+}
+
+#centerAnatomy {
+    background-color: tomato;
+     text-align: center;
+}
+
+#Sign_Out {
+    float: right;
+}
+
+#medplan {
+    float: left;
+}
+
+.AM {
+   color: indigo; 
+   background-color: pink;
+}
+
+.PM {
+    color: navy; 
+    background-color: lightblue;
+ }
